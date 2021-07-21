@@ -1,0 +1,18 @@
+            ################################
+            # tdubs42's default netlify.toml
+            # Be sure to update node and npm versions by running npm -v && node -v in your terminal
+            #######################################################################################
+
+[build]
+    command = "CI='' react-scripts build"
+    functions = "netlify/functions"
+    publish = "/build"
+    NODE_VERSION = "14.17.2"
+    NPM_VERSION = "6.14.13"
+
+  ## Uncomment to use this redirect for Single Page Applications like create-react-app.
+  ## Not needed for static site generators.
+  [[redirects]]
+    from = "/*"
+    status = 200
+    to = "/index.html"
