@@ -3,7 +3,7 @@
 ___
 [Product Vision Document](https://www.notion.so/Product-Vision-Document-64696c6f4ed44b729d24239ff8244ac8)
 ___
-[Deployed Site](https://netlify.com)
+[Deployed Site](https://sauti-african-marketplace-july2021.netlify.app/)
 ___
 ## MVP
 * As a business owner you will be able to create an account to login and list items for sale.
