@@ -18,7 +18,7 @@ ___
 > [Github Profile](https://github.com/tdubs42)
 
 ### Alieze Ali
-> [Github Profile](https://github.com/)
+> [Github Profile](https://github.com/Alieze-Ali)
 
 ### Jared Wyatt
 > [Github Profile](https://github.com/)
