@@ -1,11 +1,15 @@
 import React from 'react';
-// make sure to include yup
+import * as yup from 'yup';
 
 const OwnerLogin = () => {
 
     return (
         <div>
-            <h1>Owner Login Test</h1>
+            <h1>Login Form</h1>
+                <form>
+                    <label>Usernane:</label>
+                    <label>Password:</label>
+                </form>
         </div>
     )
 }
