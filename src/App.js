@@ -2,11 +2,12 @@ import { lazy, Suspense } from 'react'; // lazy and Suspense are used to dynamic
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
 
-import React from 'react'; //AA
+import React from 'react';  
 
-// importing components AA
+// importing components  
 import OwnerLogin from "./components/OwnerLogin";
 import Header from "./components/Header";
+
 
 // I will refactor imports into lazy imports after Unit 2 is done with building out their forms - tdubs
 
